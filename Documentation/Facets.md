@@ -158,3 +158,4 @@ http://wiki.apache.org/solr/HierarchicalFaceting#Pivot_Facets
 
 http://wiki.apache.org/solr/SimpleFacetParameters#Pivot_.28ie_Decision_Tree.29_Faceting
 
+cherry pick option

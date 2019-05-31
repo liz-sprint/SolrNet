@@ -152,7 +152,7 @@ This sample will create two main categories by inStock(true or false) and then b
     - connector (2)
     - graphics card (2)
     ```
-
+este es en el master
 Additional information to be found in:
 http://wiki.apache.org/solr/HierarchicalFaceting#Pivot_Facets
 

@@ -22,7 +22,7 @@ Or on the other hand your project requires all facets to be returned and since S
 
 ### Querying by field
 Querying by field is handled by the `SolrFacetFieldQuery` class. Results are available through the `FacetFields` property.
-
+segundo update de otro branch
 Example: print all categories sorted by popularity.
 
 ```c#

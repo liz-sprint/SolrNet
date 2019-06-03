@@ -5,7 +5,7 @@ For those without any GitHub knowledge: [Paul Bouwer has written an excellent gu
 
 You can contribute to SolrNet with issues and PRs. Simply filing issues for problems you encounter is a great way to contribute and of course contributing implementations is greatly appreciated.
 
-## Workflow
+## Workflow contribucion liz
 
 We use and recommend the standard GitHub [Fork and Pull](https://gist.github.com/Chaser324/ce0505fbed06b947d962]) workflow:
 

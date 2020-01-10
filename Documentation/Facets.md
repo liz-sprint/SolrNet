@@ -1,13 +1,13 @@
 # Faceting
 
-SolrNet supports [faceted searching](https://cwiki.apache.org/confluence/display/solr/Faceting)+
+SolrNet supports [faceted searching](https://cwiki.apache.org/confluence/display/solr/Faceting).
 
 There are basically three kinds of facet queries:
 
  1. querying by field
  1. date facets
  1. arbitrary facet queries
-This is a testDocumentation branch from miguelito
+
 Facet queries are issued through the `FacetQueries` property of `QueryOptions`. Then the `QueryOptions` instance is passed to the server instance.
 Cambio para TestDocumentation
 #### Facet Limits
@@ -25,8 +25,7 @@ Querying by field is handled by the `SolrFacetFieldQuery` class. Results are ava
 segundo update de otro branch
 Example: print all categories sorted by popularity.
 
-```c# 
-TODO: Saludar ya!
+```c#
 ISolrOperations<Document> solr = ...
 var r = solr.Query(SolrQuery.All, new QueryOptions {
     Rows = 0,

@@ -80,6 +80,7 @@ foreach (var facet in r.FacetQueries) {
   Console.WriteLine("{0}: {1}", facet.Key, facet.Value);
 }
 ```
+Otro cambio 10/1
 
 ### Pivot faceting
 Pivot faceting allows creating multidimensional facets. You can create a pivot facet with a main category and group by sub-categories. 

@@ -9,7 +9,7 @@ There are basically three kinds of facet queries:
  1. arbitrary facet queries
 This is a testDocumentation branch from miguelito
 Facet queries are issued through the `FacetQueries` property of `QueryOptions`. Then the `QueryOptions` instance is passed to the server instance.
-
+Cambio para TestDocumentation
 #### Facet Limits
 There is a possibility that a field that you are using as a facet may have too many values and thus you may want to limit how many should be displayed. For this purpose we have the `Limit` property in `SolrFacetFieldQuery`.
 

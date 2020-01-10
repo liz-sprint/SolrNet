@@ -109,7 +109,7 @@ var facetParams = new FacetParameters()
     //Limit the amounts of pivotRows to 15
     Limit = 15
 };
-pruba de hacer un buen commit
+cambio 1
 var queryOptions = new QueryOptions();
 queryOptions.Facet = facetParams;
 queryOptions.Rows = 0;

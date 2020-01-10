@@ -131,6 +131,7 @@ if (results.FacetPivots.Count > 0)
     }
 }
 ```
+cambio 2
 
 This sample will create two main categories by inStock(true or false) and then broken down by cat (category). It will print out the following:
 ```
